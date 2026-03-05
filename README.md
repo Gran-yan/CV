@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Junior Frontend Delovper CV</title>
+    <tittle>Junior Frontend Delovper CV</tittle>
 </head>
 <body>
   <hr>
